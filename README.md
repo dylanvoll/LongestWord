@@ -5,7 +5,7 @@ How to run:
 
 Assuming your java environment is setup correctly, run the following commands in the repository directory
 
-	javac LongestWord.class
+	javac LongestWord.java
 	java -cp . LongestWord
 
 2 methods:
