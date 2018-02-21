@@ -1,5 +1,3 @@
-package sample;
-
 import java.util.ArrayList;
 
 public class LongestWord {
@@ -16,7 +14,7 @@ public class LongestWord {
 		 result.print();
 		 result = findLongestWord("The");
 		 result.print();
-		 result = findLongestWord("The  cow ");
+		 result = findLongestWord("The      cow jumped jumped");
 		 result.print();
 		 result = findLongestWord("The The The The @#$@#$");
 		 result.print();

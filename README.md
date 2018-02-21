@@ -1,6 +1,8 @@
 # LongestWord
 Java code to find the longest word in a sentence
 
+
+
 2 methods:
 
 	findLongestWord:
