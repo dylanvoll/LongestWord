@@ -1,7 +1,12 @@
 # LongestWord
 Java code to find the longest word in a sentence
 
+How to run:
 
+Assuming your java environment is setup correctly, run the following commands in the repository directory
+
+	javac LongestWord.class
+	java -cp . LongestWord
 
 2 methods:
 
